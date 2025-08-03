@@ -1,0 +1,2181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Podcastify\n"
+"POT-Creation-Date: 2021-01-04 17:07+0500\n"
+"PO-Revision-Date: 2021-01-04 16:57+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;"
+"esc_attr__;esc_attr_e;esc_attr_x;number_format_i18n;"
+"date_i18n\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: includes/classes/class-meta-box-api.php:138
+msgid "Upload file"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:27
+#: includes/classes/class-podcast-post.php:28
+msgid "Podcast"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:29
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:30
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:30
+#: includes/classes/class-podcast-post.php:31
+#: includes/classes/class-podcast-post.php:32
+#: includes/classes/class-podcast-post.php:34
+#: includes/classes/class-podcast-post.php:40
+#: includes/classes/class-podcast-post.php:41
+#: includes/classes/class-podcast-post.php:42
+msgid "Episode"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:31
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:32
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:33
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:33
+#: includes/classes/class-podcast-post.php:35
+#: includes/classes/class-podcast-post.php:36
+#: includes/classes/class-podcast-post.php:37
+#: includes/classes/class-taxonomy-fields.php:164
+msgid "Episodes"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:34
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:35
+msgid "Search %a"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:36
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:37
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:39
+msgid "Podcastify"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:40
+#, php-format
+msgid "Filter %s list"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:41
+#, php-format
+msgid "%s list navigation"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:42
+#, php-format
+msgid "%s list"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:94
+#: includes/classes/class-podcast-post.php:109
+msgid "Tags"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:95
+msgid "Tag"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:96
+msgid "Search Tags"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:97
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:98
+msgid "All Tags"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:101
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:102
+msgid "Update Tag"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:103
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:104
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:105
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:106
+msgid "Add or remove tags"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:107
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:108
+msgid "No tags found."
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:132
+msgid "Podcast Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:133
+#: includes/classes/class-podcast-post.php:142
+msgid "Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:134
+msgid "Search Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:135
+msgid "All Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:136
+msgid "Parent Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:137
+msgid "Parent Series:"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:138
+msgid "Edit Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:139
+msgid "Update Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:140
+msgid "Add New Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:141
+msgid "New Series Name"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:143
+msgid "View Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:144
+msgid "Popular Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:145
+msgid "Separate series with commas"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:146
+msgid "Add or remove Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:147
+msgid "Choose from the most used Series"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:148
+msgid "No Series Found"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:149
+msgid "Series list navigation"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:150
+msgid "Series list"
+msgstr ""
+
+#: includes/classes/class-podcast-post.php:151
+msgid "← Back to Series"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:96
+msgid "Series Image"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:97
+msgid "Choose series image"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:98
+msgid "Add Image"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:99
+msgid "Choose an image file"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:100
+msgid ""
+"Set an image as the artwork for the series. No image will "
+"be set if not provided."
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:141
+msgid "Series added."
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:142
+#: includes/classes/class-taxonomy-fields.php:146
+msgid "Series deleted."
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:143
+msgid "Series updated."
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:144
+msgid "Series not added."
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:145
+msgid "Series not updated."
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:165
+msgid "Series feed URL"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:196
+msgid " Copied"
+msgstr ""
+
+#: includes/classes/class-taxonomy-fields.php:196
+msgid "Copy"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:60
+msgid "Episode type:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:66
+msgid "Audio"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:67
+msgid "Video"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:73
+msgid "Podcast file:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:74
+msgid ""
+"Upload the primary podcast file or paste the file URL here."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:76
+msgid "file"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:81
+msgid "Duration:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:82
+msgid "Duration of podcast file for display."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:88
+msgid "File size:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:89
+msgid "Size of the podcast file for display."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:95
+msgid "Date recorded:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:96
+msgid "The date on which this episode was recorded."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:102
+msgid "Explicit:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:103
+msgid "Mark this episode as explicit."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:108
+#: includes/classes/class-wpp-settings.php:439
+msgid "Yes"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:109
+#: includes/classes/class-wpp-settings.php:440
+msgid "No"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:110
+#: includes/classes/class-wpp-settings.php:441
+msgid "Clean"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:114
+msgid "Block:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:115
+msgid ""
+"Block this episode from appearing in the iTunes & Google "
+"Play podcast libraries."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:125
+msgid "iTunes Episode Number:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:126
+msgid "The iTunes Episode Number. Leave Blank If None."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:132
+msgid "iTunes Season Number:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:133
+msgid "The iTunes Season Number. Leave Blank If None."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:139
+msgid "iTunes Episode Type:"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:144
+msgid "Please Select"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:145
+msgid "Full: For Normal Episodes"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:146
+msgid "Trailer: Promote an Upcoming Show"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:147
+msgid "Bonus: For Extra Content Related To a Show"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:153
+msgid ""
+"iTunes Episode Title (Exclude Your Series / Show Number):"
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:154
+msgid ""
+"The iTunes Episode Title. NO Series / Show Number Should Be "
+"Included."
+msgstr ""
+
+#: includes/classes/class-wpp-meta-fields.php:191
+msgid "Episode Settings"
+msgstr ""
+
+#: includes/classes/class-wpp-setting-api.php:636
+msgid "Choose File"
+msgstr ""
+
+#: includes/classes/class-wpp-setting-api.php:657
+msgid "Choose Image"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:63
+#: includes/classes/class-wpp-settings.php:64
+#: includes/classes/class-wpp-settings.php:144
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:148
+msgid "Feed Details"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:153
+msgid "Player"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:154
+msgid "Player related settings "
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:163
+msgid "Your series feed details."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:168
+msgid "Default"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:213
+msgid "Podcast  Player Location"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:214
+msgid "Where you want to show podcast media player."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:217
+msgid "Full Content"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:218
+#: includes/classes/class-wpp-settings.php:497
+msgid "Excerpt"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:219
+msgid "OEmbed Excerpt"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:225
+msgid "PodCast Player Position"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:226
+msgid ""
+"Position player of the where  you want to show podcast "
+"player."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:229
+msgid "Above the Content"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:230
+msgid "Below the Content"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:236
+msgid "PodCast Player Visibility"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:239
+msgid ""
+"Whether to display the media player to everybody or only "
+"logged in users."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:243
+msgid "All Users"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:244
+msgid "Logged in Users"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:250
+msgid "Itune Fields "
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:253
+msgid ""
+"Enable iTunes iOS11 specific fields on each episode.\n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:264
+msgid "Show Player Meta "
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:270
+msgid "Player Meta"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:271
+msgid "Select Player Meta You want to show on player."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:274
+msgid "Download"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:275
+msgid "Like"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:276
+msgid "Share"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:277
+msgid "Subscribe"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:283
+msgid "Share Network"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:284
+msgid "Share networks social sharing"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:287
+msgid "Facebook"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:288
+msgid "Linkedin"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:289
+msgid "Twitter"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:295
+msgid "Player Control Color"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:296
+msgid "Progress bar, volume, play and pause color."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:302
+msgid "Player Background Color "
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:303
+msgid "Player background color."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:317
+msgid " -- None --"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:334
+msgid "Title"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:336
+msgid "Your podcast title."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:344
+msgid "Subtitle"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:353
+msgid "Author"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:355
+msgid "Your podcast author"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:363
+msgid "Summary"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:365
+msgid "Your description/summary of the podcast."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:372
+msgid "Cover Image\t\t"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:373
+msgid ""
+"Your podcast cover image must have a minimum 1400px x "
+"1400px.."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:379
+msgid "Key Words"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:381
+msgid ""
+"Comma-separated keywords to help people find your podcast."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:387
+msgid "Category\t1"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:388
+msgid "Your podcast primary category."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:395
+msgid "Category\t2"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:396
+msgid "Your podcast secondary category."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:403
+msgid "Category\t3"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:404
+msgid "Your podcast tertiary category."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:411
+msgid "Owner/Author Name"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:413
+msgid "Podcast owner name."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:419
+msgid "Owner/Author Email"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:421
+msgid "Podcast owner email."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:426
+msgid "Podcast/Feed Language"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:435
+msgid "Explicit"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:447
+msgid "Completed"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:448
+msgid ""
+"Check if this podcast is completed and not  more episodes "
+"are going to be added to this feed."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:454
+msgid "Copyright / License information"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:461
+msgid "Publish date"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:463
+msgid ""
+"Use the \"Published date\" of the post or \"Recorded Date\" "
+"from the Podcast episode.\n"
+"\t\t\t\t\t"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:470
+msgid "Publish Date"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:471
+msgid "Recorded Date"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:477
+msgid "Show Type"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:483
+msgid "Select show type"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:484
+msgid "Episodic"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:485
+msgid "Serial"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:492
+msgid "Episode Description"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:496
+msgid "Content"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:503
+msgid "Exclude form default Feed"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:509
+msgid "Lighten Feed"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:510
+msgid ""
+"If you have 100+ episodes with transcription. You can "
+"enable lighten feed. <a href=\"#\">more info</a>"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:516
+msgid "New Feed URL"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:517
+msgid ""
+" If you set new feed URL after 24hour gone we will redirect "
+"new feed url. "
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:525
+msgid "ITunes Feed URL"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:526
+msgid "Your ITunes Podcast's Feed URL."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:534
+msgid "Google Play Feed URL"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:535
+msgid "Your Google Play Podcast's  Feed URL."
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:543
+msgid "Spoitfy Feed URL"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:544
+msgid "Spoitfy Podcast's  Feed URL"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:552
+msgid "Stitcher Feed URL"
+msgstr ""
+
+#: includes/classes/class-wpp-settings.php:553
+msgid "Stitcher Podcast's  Feed URL"
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:84
+msgid "The password for the post if it is password protected."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:94
+#: includes/rest/class-wp-rest-posts-controller.php:2072
+#: includes/rest/class-wpp-episode-controller.php:369
+msgid "Unique identifier for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:118
+msgid "Whether to bypass Trash and force deletion."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:142
+msgid ""
+"Sorry, you are not allowed to edit posts in this post type."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:164
+msgid ""
+"You need to define a search term to order by relevance."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:173
+msgid ""
+"You need to define an include parameter to order by include."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:353
+#: includes/rest/class-wpp-episode-controller.php:228
+msgid ""
+"The page number requested is larger than the number of "
+"pages available."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:397
+msgid "Invalid post ID."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:430
+#: includes/rest/class-wp-rest-posts-controller.php:707
+msgid "Sorry, you are not allowed to edit this post."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:440
+msgid "Incorrect post password."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:526
+#: includes/rest/class-wp-rest-posts-controller.php:580
+msgid "Cannot create existing post."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:536
+#: includes/rest/class-wp-rest-posts-controller.php:552
+msgid ""
+"Sorry, you are not allowed to create posts as this user."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:544
+#: includes/rest/class-wp-rest-posts-controller.php:723
+msgid "Sorry, you are not allowed to make posts sticky."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:560
+#: includes/rest/class-wp-rest-posts-controller.php:731
+msgid ""
+"Sorry, you are not allowed to assign the provided terms."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:715
+msgid ""
+"Sorry, you are not allowed to update posts as this user."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:852
+#: includes/rest/class-wp-rest-posts-controller.php:900
+msgid "Sorry, you are not allowed to delete this post."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:924
+#, php-format
+msgid ""
+"The post does not support trashing. Set '%s' to delete."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:933
+msgid "The post has already been deleted."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:948
+msgid "The post cannot be deleted."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1157
+msgid "Invalid author ID."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1174
+msgid "A post can not be sticky and have a password."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1182
+msgid "A sticky post can not be password protected."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1193
+msgid "A password protected post can not be set to sticky."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1209
+msgid "Invalid post parent ID."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1272
+msgid ""
+"Sorry, you are not allowed to create private posts in this "
+"post type."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1282
+msgid ""
+"Sorry, you are not allowed to publish posts in this post "
+"type."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1316
+msgid "Invalid featured media ID."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:1362
+#, php-format
+msgid "%1$s is not one of %2$s."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2040
+msgid ""
+"The date the object was published, in the site's timezone."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2046
+msgid "The date the object was published, as GMT."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2052
+msgid "The globally unique identifier for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2058
+msgid "GUID for the object, as it exists in the database."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2064
+msgid "GUID for the object, transformed for display."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2078
+msgid "URL to the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2085
+msgid ""
+"The date the object was last modified, in the site's "
+"timezone."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2092
+msgid "The date the object was last modified, as GMT."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2099
+msgid ""
+"An alphanumeric identifier for the object unique to its "
+"type."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2107
+msgid "A named status for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2113
+msgid "Type of Post for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2119
+msgid ""
+"A password to protect access to the content and excerpt."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2129
+msgid "Permalink template for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2136
+msgid "Slug automatically generated from the object title."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2145
+msgid "The ID for the parent of the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2205
+msgid "The title for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2214
+msgid "Title for the object, as it exists in the database."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2219
+msgid "HTML title for the object, transformed for display."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2230
+#: includes/rest/class-wpp-episode-controller.php:375
+msgid "The content for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2239
+msgid "Content for the object, as it exists in the database."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2244
+msgid "HTML content for the object, transformed for display."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2250
+msgid ""
+"Version of the content block format used by the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2256
+msgid "Whether the content is protected with a password."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2267
+msgid "The ID for the author of the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2275
+msgid "The excerpt for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2284
+msgid "Excerpt for the object, as it exists in the database."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2289
+msgid "HTML excerpt for the object, transformed for display."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2295
+msgid "Whether the excerpt is protected with a password."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2306
+msgid "The ID of the featured media for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2314
+msgid "Whether or not comments are open on the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2320
+msgid "Whether or not the object can be pinged."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2329
+msgid ""
+"The order of the object in relation to other object of its "
+"type."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2340
+msgid "The format for the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2356
+msgid "Whether or not the object should be treated as sticky."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2363
+msgid "The theme file to use to display the object."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2382
+#, php-format
+msgid ""
+"The \"%1$s\" taxonomy \"%2$s\" property (%3$s) conflicts "
+"with an existing property on the REST API Posts Controller. "
+"Specify a custom \"rest_base\" when registering the "
+"taxonomy to avoid this error."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2393
+#, php-format
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2426
+msgid ""
+"Please use register_rest_field to add new schema properties."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2450
+msgid "The current user can publish this post."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2466
+msgid ""
+"The current user can post unfiltered HTML markup and "
+"JavaScript."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2483
+msgid "The current user can sticky this post."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2499
+msgid "The current user can change the author on this post."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2518
+#, php-format
+msgid "The current user can assign terms in the %s taxonomy."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2520
+#, php-format
+msgid "The current user can create terms in the %s taxonomy."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2573
+msgid ""
+"Limit response to posts published after a given ISO8601 "
+"compliant date."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2580
+#: includes/rest/class-wpp-episode-controller.php:418
+msgid ""
+"Limit result set to posts assigned to specific authors."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2588
+#: includes/rest/class-wpp-episode-controller.php:426
+msgid ""
+"Ensure result set excludes posts assigned to specific "
+"authors."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2598
+msgid ""
+"Limit response to posts published before a given ISO8601 "
+"compliant date."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2604
+msgid "Ensure result set excludes specific IDs."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2613
+msgid "Limit result set to specific IDs."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2623
+msgid ""
+"Limit result set to posts with a specific menu_order value."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2629
+#: includes/rest/class-wpp-episode-controller.php:462
+msgid "Offset the result set by a specific number of items."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2634
+#: includes/rest/class-wpp-episode-controller.php:469
+msgid "Order sort attribute ascending or descending."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2641
+#: includes/rest/class-wpp-episode-controller.php:477
+msgid "Sort collection by object attribute."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2666
+msgid "Limit result set to items with particular parent IDs."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2674
+msgid ""
+"Limit result set to all items except those of a particular "
+"parent ID."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2684
+msgid ""
+"Limit result set to posts with one or more specific slugs."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2694
+msgid ""
+"Limit result set to posts assigned one or more statuses."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2707
+msgid ""
+"Limit result set based on relationship between multiple "
+"taxonomies."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2718
+#: includes/rest/class-wpp-episode-controller.php:530
+#, php-format
+msgid ""
+"Limit result set to all items that have the specified term "
+"assigned in the %s taxonomy."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2728
+#, php-format
+msgid ""
+"Limit result set to all items except those that have the "
+"specified term assigned in the %s taxonomy."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2739
+msgid "Limit result set to items that are sticky."
+msgstr ""
+
+#: includes/rest/class-wp-rest-posts-controller.php:2795
+msgid "Status is forbidden."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:86
+#: includes/rest/class-wpp-episode-controller.php:274
+msgid "You cannot view the post resource."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:411
+msgid ""
+"Limit response to resources published after a given ISO8601 "
+"compliant date."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:434
+msgid ""
+"Limit response to resources published before a given "
+"ISO8601 compliant date."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:441
+msgid "Ensure result set excludes specific ids."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:448
+msgid "Limit result set to specific ids."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:455
+msgid ""
+"Limit result set to resources with a specific menu_order "
+"value."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:494
+msgid "Limit result set to those of particular parent ids."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:501
+msgid ""
+"Limit result set to all items except those of a particular "
+"parent id."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:508
+msgid "Limit result set to posts with a specific slug."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:515
+msgid "Limit result set to posts assigned a specific status."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:522
+msgid ""
+"Use WP Query arguments to modify the response private query "
+"vars require appropriate authorization."
+msgstr ""
+
+#: includes/rest/class-wpp-episode-controller.php:560
+msgid "Status is forbidden"
+msgstr ""
+
+#: includes/utils/helper.php:20
+msgid "Arts"
+msgstr ""
+
+#: includes/utils/helper.php:21
+msgid "Business"
+msgstr ""
+
+#: includes/utils/helper.php:22
+msgid "Comedy"
+msgstr ""
+
+#: includes/utils/helper.php:23
+msgid "Education"
+msgstr ""
+
+#: includes/utils/helper.php:24
+msgid "Fiction"
+msgstr ""
+
+#: includes/utils/helper.php:25
+msgid "Government"
+msgstr ""
+
+#: includes/utils/helper.php:26
+msgid "History"
+msgstr ""
+
+#: includes/utils/helper.php:27
+msgid "Health & Fitness"
+msgstr ""
+
+#: includes/utils/helper.php:28
+msgid "Kids & Family"
+msgstr ""
+
+#: includes/utils/helper.php:29
+msgid "Leisure"
+msgstr ""
+
+#: includes/utils/helper.php:30
+msgid "Music"
+msgstr ""
+
+#: includes/utils/helper.php:31
+msgid "News"
+msgstr ""
+
+#: includes/utils/helper.php:32
+msgid "Religion & Spirituality"
+msgstr ""
+
+#: includes/utils/helper.php:33
+msgid "Science"
+msgstr ""
+
+#: includes/utils/helper.php:34
+msgid "Society & Culture"
+msgstr ""
+
+#: includes/utils/helper.php:35
+msgid "Sports"
+msgstr ""
+
+#: includes/utils/helper.php:36
+msgid "Technology"
+msgstr ""
+
+#: includes/utils/helper.php:37
+msgid "True Crime"
+msgstr ""
+
+#: includes/utils/helper.php:38
+msgid "TV & Film"
+msgstr ""
+
+#: includes/utils/helper.php:57
+msgid "Books"
+msgstr ""
+
+#: includes/utils/helper.php:58
+msgid "Design"
+msgstr ""
+
+#: includes/utils/helper.php:59
+msgid "Fashion & Beauty"
+msgstr ""
+
+#: includes/utils/helper.php:60
+msgid "Performing Arts"
+msgstr ""
+
+#: includes/utils/helper.php:61
+msgid "Visual Arts"
+msgstr ""
+
+#: includes/utils/helper.php:64
+msgid "Careers"
+msgstr ""
+
+#: includes/utils/helper.php:65
+msgid "Entrepreneurship"
+msgstr ""
+
+#: includes/utils/helper.php:66
+msgid "Investing"
+msgstr ""
+
+#: includes/utils/helper.php:67
+msgid "Management"
+msgstr ""
+
+#: includes/utils/helper.php:68
+msgid "Non-Profit"
+msgstr ""
+
+#: includes/utils/helper.php:71
+msgid "Comedy Interviews"
+msgstr ""
+
+#: includes/utils/helper.php:72
+msgid "Improv"
+msgstr ""
+
+#: includes/utils/helper.php:73
+msgid "Stand-Up"
+msgstr ""
+
+#: includes/utils/helper.php:76
+msgid "Courses"
+msgstr ""
+
+#: includes/utils/helper.php:77
+msgid "How To"
+msgstr ""
+
+#: includes/utils/helper.php:78
+msgid "Language Learning"
+msgstr ""
+
+#: includes/utils/helper.php:79
+msgid "Self-Improvement"
+msgstr ""
+
+#: includes/utils/helper.php:82
+msgid "Comedy Fiction"
+msgstr ""
+
+#: includes/utils/helper.php:83
+msgid "Drama"
+msgstr ""
+
+#: includes/utils/helper.php:84
+msgid "Science Fiction"
+msgstr ""
+
+#: includes/utils/helper.php:89
+msgid "Alternative Health"
+msgstr ""
+
+#: includes/utils/helper.php:90
+msgid "fitness"
+msgstr ""
+
+#: includes/utils/helper.php:91
+msgid "medicine"
+msgstr ""
+
+#: includes/utils/helper.php:92
+msgid "Mental Health"
+msgstr ""
+
+#: includes/utils/helper.php:93
+msgid "Nutrition"
+msgstr ""
+
+#: includes/utils/helper.php:94
+msgid "Sexuality"
+msgstr ""
+
+#: includes/utils/helper.php:97
+msgid "Education for Kids"
+msgstr ""
+
+#: includes/utils/helper.php:98
+msgid "Parenting"
+msgstr ""
+
+#: includes/utils/helper.php:99
+msgid "Pets & Animals"
+msgstr ""
+
+#: includes/utils/helper.php:100
+msgid "Stories for Kids"
+msgstr ""
+
+#: includes/utils/helper.php:103
+msgid "Animation & Manga"
+msgstr ""
+
+#: includes/utils/helper.php:104
+msgid "Automotive"
+msgstr ""
+
+#: includes/utils/helper.php:105
+msgid "Aviation"
+msgstr ""
+
+#: includes/utils/helper.php:106
+msgid "Crafts"
+msgstr ""
+
+#: includes/utils/helper.php:107
+msgid "Games"
+msgstr ""
+
+#: includes/utils/helper.php:108
+msgid "Hobbies"
+msgstr ""
+
+#: includes/utils/helper.php:109
+msgid "Home & Garden"
+msgstr ""
+
+#: includes/utils/helper.php:110
+msgid "Video Games"
+msgstr ""
+
+#: includes/utils/helper.php:113
+msgid "Music Commentary"
+msgstr ""
+
+#: includes/utils/helper.php:114
+msgid "Music History"
+msgstr ""
+
+#: includes/utils/helper.php:115
+msgid "Music Interviews"
+msgstr ""
+
+#: includes/utils/helper.php:118
+msgid "Business News"
+msgstr ""
+
+#: includes/utils/helper.php:119
+msgid "Daily News"
+msgstr ""
+
+#: includes/utils/helper.php:120
+msgid "Entertainment News"
+msgstr ""
+
+#: includes/utils/helper.php:121
+msgid "News Commentary"
+msgstr ""
+
+#: includes/utils/helper.php:122
+msgid "Politics"
+msgstr ""
+
+#: includes/utils/helper.php:123
+msgid "Sports News"
+msgstr ""
+
+#: includes/utils/helper.php:124
+msgid "Tech News"
+msgstr ""
+
+#: includes/utils/helper.php:127
+msgid "Buddhism"
+msgstr ""
+
+#: includes/utils/helper.php:128
+msgid "Christianity"
+msgstr ""
+
+#: includes/utils/helper.php:129
+msgid "Hinduism"
+msgstr ""
+
+#: includes/utils/helper.php:130
+msgid "Islam"
+msgstr ""
+
+#: includes/utils/helper.php:131
+msgid "Judaism"
+msgstr ""
+
+#: includes/utils/helper.php:132
+msgid "Religion"
+msgstr ""
+
+#: includes/utils/helper.php:133
+msgid "Spirituality"
+msgstr ""
+
+#: includes/utils/helper.php:136
+msgid "Astronomy"
+msgstr ""
+
+#: includes/utils/helper.php:137
+msgid "Chemistry"
+msgstr ""
+
+#: includes/utils/helper.php:138
+msgid "Earth Sciences"
+msgstr ""
+
+#: includes/utils/helper.php:139
+msgid "Life Sciences"
+msgstr ""
+
+#: includes/utils/helper.php:140
+msgid "Mathematics"
+msgstr ""
+
+#: includes/utils/helper.php:141
+msgid "Natural Sciences"
+msgstr ""
+
+#: includes/utils/helper.php:142
+msgid "Nature"
+msgstr ""
+
+#: includes/utils/helper.php:143
+msgid "Physics"
+msgstr ""
+
+#: includes/utils/helper.php:144
+msgid "Social Sciences"
+msgstr ""
+
+#: includes/utils/helper.php:147
+msgid "Documentary"
+msgstr ""
+
+#: includes/utils/helper.php:148
+msgid "Personal Journals"
+msgstr ""
+
+#: includes/utils/helper.php:149
+msgid "Philosophy"
+msgstr ""
+
+#: includes/utils/helper.php:150
+msgid "Places & Travel"
+msgstr ""
+
+#: includes/utils/helper.php:151
+msgid "Relationships"
+msgstr ""
+
+#: includes/utils/helper.php:154
+msgid "Baseball"
+msgstr ""
+
+#: includes/utils/helper.php:155
+msgid "Basketball"
+msgstr ""
+
+#: includes/utils/helper.php:156
+msgid "Cricket"
+msgstr ""
+
+#: includes/utils/helper.php:157
+msgid "Fantasy Sports"
+msgstr ""
+
+#: includes/utils/helper.php:158
+msgid "Football"
+msgstr ""
+
+#: includes/utils/helper.php:159
+msgid "Hockey"
+msgstr ""
+
+#: includes/utils/helper.php:160
+msgid "Rugby"
+msgstr ""
+
+#: includes/utils/helper.php:161
+msgid "Soccer"
+msgstr ""
+
+#: includes/utils/helper.php:162
+msgid "Swimming"
+msgstr ""
+
+#: includes/utils/helper.php:163
+msgid "Tennis"
+msgstr ""
+
+#: includes/utils/helper.php:164
+msgid "Volleyball"
+msgstr ""
+
+#: includes/utils/helper.php:165
+msgid "Wilderness"
+msgstr ""
+
+#: includes/utils/helper.php:166
+msgid "Wrestling"
+msgstr ""
+
+#: includes/utils/helper.php:171
+msgid "After Shows"
+msgstr ""
+
+#: includes/utils/helper.php:172
+msgid "Film History"
+msgstr ""
+
+#: includes/utils/helper.php:173
+msgid "Film Interviews"
+msgstr ""
+
+#: includes/utils/helper.php:174
+msgid "TV Reviews"
+msgstr ""
+
+#: includes/utils/helper.php:190
+msgid "Afrikaans"
+msgstr ""
+
+#: includes/utils/helper.php:191
+msgid "Albanian"
+msgstr ""
+
+#: includes/utils/helper.php:192
+msgid "Arabic"
+msgstr ""
+
+#: includes/utils/helper.php:193
+msgid "Arabic (Saudi Arabia)"
+msgstr ""
+
+#: includes/utils/helper.php:194
+msgid "Arabic (Egypt)"
+msgstr ""
+
+#: includes/utils/helper.php:195
+msgid "Arabic (Algeria)"
+msgstr ""
+
+#: includes/utils/helper.php:196
+msgid "Arabic (Tunisia)"
+msgstr ""
+
+#: includes/utils/helper.php:197
+msgid "Arabic (Yemen)"
+msgstr ""
+
+#: includes/utils/helper.php:198
+msgid "Arabic (Jordan)"
+msgstr ""
+
+#: includes/utils/helper.php:199
+msgid "Arabic (Kuwait)"
+msgstr ""
+
+#: includes/utils/helper.php:200
+msgid "Arabic (Bahrain)"
+msgstr ""
+
+#: includes/utils/helper.php:201
+msgid "Basque"
+msgstr ""
+
+#: includes/utils/helper.php:202
+msgid "Belarusian"
+msgstr ""
+
+#: includes/utils/helper.php:203
+msgid "Bulgarian"
+msgstr ""
+
+#: includes/utils/helper.php:204
+msgid "Catalan"
+msgstr ""
+
+#: includes/utils/helper.php:205
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: includes/utils/helper.php:206
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: includes/utils/helper.php:207
+msgid "Croatian"
+msgstr ""
+
+#: includes/utils/helper.php:208
+msgid "Czech"
+msgstr ""
+
+#: includes/utils/helper.php:209
+msgid "Cree"
+msgstr ""
+
+#: includes/utils/helper.php:210
+msgid "Danish"
+msgstr ""
+
+#: includes/utils/helper.php:211
+msgid "Dutch"
+msgstr ""
+
+#: includes/utils/helper.php:212
+msgid "Dutch (Belgium)"
+msgstr ""
+
+#: includes/utils/helper.php:213
+msgid "Dutch (Netherlands)"
+msgstr ""
+
+#: includes/utils/helper.php:214
+msgid "English"
+msgstr ""
+
+#: includes/utils/helper.php:215
+msgid "English (Australia)"
+msgstr ""
+
+#: includes/utils/helper.php:216
+msgid "English (Belize)"
+msgstr ""
+
+#: includes/utils/helper.php:217
+msgid "English (Canada)"
+msgstr ""
+
+#: includes/utils/helper.php:218
+msgid "English (Ireland)"
+msgstr ""
+
+#: includes/utils/helper.php:219
+msgid "English (Jamaica)"
+msgstr ""
+
+#: includes/utils/helper.php:220
+msgid "English (New Zealand)"
+msgstr ""
+
+#: includes/utils/helper.php:221
+msgid "English (Phillipines)"
+msgstr ""
+
+#: includes/utils/helper.php:222
+msgid "English (South Africa)"
+msgstr ""
+
+#: includes/utils/helper.php:223
+msgid "English (Trinidad)"
+msgstr ""
+
+#: includes/utils/helper.php:224
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: includes/utils/helper.php:225
+msgid "English (United States)"
+msgstr ""
+
+#: includes/utils/helper.php:226
+msgid "English (Zimbabwe)"
+msgstr ""
+
+#: includes/utils/helper.php:227
+msgid "Estonian"
+msgstr ""
+
+#: includes/utils/helper.php:228
+msgid "Faeroese"
+msgstr ""
+
+#: includes/utils/helper.php:229
+msgid "Finnish"
+msgstr ""
+
+#: includes/utils/helper.php:230
+msgid "French"
+msgstr ""
+
+#: includes/utils/helper.php:231
+msgid "French (Belgium)"
+msgstr ""
+
+#: includes/utils/helper.php:232
+msgid "French (Canada)"
+msgstr ""
+
+#: includes/utils/helper.php:233
+msgid "French (France)"
+msgstr ""
+
+#: includes/utils/helper.php:234
+msgid "French (Luxembourg)"
+msgstr ""
+
+#: includes/utils/helper.php:235
+msgid "French (Monaco)"
+msgstr ""
+
+#: includes/utils/helper.php:236
+msgid "French (Switzerland)"
+msgstr ""
+
+#: includes/utils/helper.php:237
+msgid "Galician"
+msgstr ""
+
+#: includes/utils/helper.php:238
+msgid "Gaelic"
+msgstr ""
+
+#: includes/utils/helper.php:239
+msgid "German"
+msgstr ""
+
+#: includes/utils/helper.php:240
+msgid "German (Austria)"
+msgstr ""
+
+#: includes/utils/helper.php:241
+msgid "German (Germany)"
+msgstr ""
+
+#: includes/utils/helper.php:242
+msgid "German (Liechtenstein)"
+msgstr ""
+
+#: includes/utils/helper.php:243
+msgid "German (Luxembourg)"
+msgstr ""
+
+#: includes/utils/helper.php:244
+msgid "German (Switzerland)"
+msgstr ""
+
+#: includes/utils/helper.php:245
+msgid "Greek"
+msgstr ""
+
+#: includes/utils/helper.php:246
+msgid "Hawaiian"
+msgstr ""
+
+#: includes/utils/helper.php:247
+msgid "Hebrew"
+msgstr ""
+
+#: includes/utils/helper.php:248
+msgid "Hungarian"
+msgstr ""
+
+#: includes/utils/helper.php:249
+msgid "Icelandic"
+msgstr ""
+
+#: includes/utils/helper.php:250
+msgid "Indonesian"
+msgstr ""
+
+#: includes/utils/helper.php:251
+msgid "Irish"
+msgstr ""
+
+#: includes/utils/helper.php:252
+msgid "Italian"
+msgstr ""
+
+#: includes/utils/helper.php:253
+msgid "Hindi"
+msgstr ""
+
+#: includes/utils/helper.php:254
+msgid "Italian (Italy)"
+msgstr ""
+
+#: includes/utils/helper.php:255
+msgid "Italian (Switzerland)"
+msgstr ""
+
+#: includes/utils/helper.php:256
+msgid "Japanese"
+msgstr ""
+
+#: includes/utils/helper.php:257
+msgid "Korean"
+msgstr ""
+
+#: includes/utils/helper.php:258
+msgid "Macedonian"
+msgstr ""
+
+#: includes/utils/helper.php:259
+msgid "Norwegian"
+msgstr ""
+
+#: includes/utils/helper.php:260
+msgid "Punjabi"
+msgstr ""
+
+#: includes/utils/helper.php:261
+msgid "Polish"
+msgstr ""
+
+#: includes/utils/helper.php:262
+msgid "Portuguese"
+msgstr ""
+
+#: includes/utils/helper.php:263
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: includes/utils/helper.php:264
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: includes/utils/helper.php:265
+msgid "Romanian"
+msgstr ""
+
+#: includes/utils/helper.php:266
+msgid "Romanian (Moldova)"
+msgstr ""
+
+#: includes/utils/helper.php:267
+msgid "Romanian (Romania)"
+msgstr ""
+
+#: includes/utils/helper.php:268
+msgid "Russian"
+msgstr ""
+
+#: includes/utils/helper.php:269
+msgid "Russian (Moldova)"
+msgstr ""
+
+#: includes/utils/helper.php:270
+msgid "Russian (Russia)"
+msgstr ""
+
+#: includes/utils/helper.php:271
+msgid "Serbian"
+msgstr ""
+
+#: includes/utils/helper.php:272
+msgid "Slovak"
+msgstr ""
+
+#: includes/utils/helper.php:273
+msgid "Slovenian"
+msgstr ""
+
+#: includes/utils/helper.php:274
+msgid "Spanish"
+msgstr ""
+
+#: includes/utils/helper.php:275
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: includes/utils/helper.php:276
+msgid "Spanish (Bolivia)"
+msgstr ""
+
+#: includes/utils/helper.php:277
+msgid "Spanish (Chile)"
+msgstr ""
+
+#: includes/utils/helper.php:278
+msgid "Spanish (Colombia)"
+msgstr ""
+
+#: includes/utils/helper.php:279
+msgid "Spanish (Costa Rica)"
+msgstr ""
+
+#: includes/utils/helper.php:280
+msgid "Spanish (Dominican Republic)"
+msgstr ""
+
+#: includes/utils/helper.php:281
+msgid "Spanish (Ecuador)"
+msgstr ""
+
+#: includes/utils/helper.php:282
+msgid "Spanish (El Salvador)"
+msgstr ""
+
+#: includes/utils/helper.php:283
+msgid "Spanish (Guatemala)"
+msgstr ""
+
+#: includes/utils/helper.php:284
+msgid "Spanish (Honduras)"
+msgstr ""
+
+#: includes/utils/helper.php:285
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: includes/utils/helper.php:286
+msgid "Spanish (Nicaragua)"
+msgstr ""
+
+#: includes/utils/helper.php:287
+msgid "Spanish (Panama)"
+msgstr ""
+
+#: includes/utils/helper.php:288
+msgid "Spanish (Paraguay)"
+msgstr ""
+
+#: includes/utils/helper.php:289
+msgid "Spanish (Peru)"
+msgstr ""
+
+#: includes/utils/helper.php:290
+msgid "Spanish (Puerto Rico)"
+msgstr ""
+
+#: includes/utils/helper.php:291
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: includes/utils/helper.php:292
+msgid "Spanish (Uruguay)"
+msgstr ""
+
+#: includes/utils/helper.php:293
+msgid "Spanish (Venezuela)"
+msgstr ""
+
+#: includes/utils/helper.php:294
+msgid "Swedish"
+msgstr ""
+
+#: includes/utils/helper.php:295
+msgid "Swedish (Finland)"
+msgstr ""
+
+#: includes/utils/helper.php:296
+msgid "Swedish (Sweden)"
+msgstr ""
+
+#: includes/utils/helper.php:297
+msgid "Tamil"
+msgstr ""
+
+#: includes/utils/helper.php:298
+msgid "Thai"
+msgstr ""
+
+#: includes/utils/helper.php:299
+msgid "Tibetan"
+msgstr ""
+
+#: includes/utils/helper.php:300
+msgid "Turkish"
+msgstr ""
+
+#: includes/utils/helper.php:301
+msgid "Ukranian"
+msgstr ""
+
+#: includes/utils/helper.php:302
+msgid "Venda"
+msgstr ""
+
+#: includes/utils/helper.php:303
+msgid "Vietnamese"
+msgstr ""
+
+#: includes/utils/helper.php:304
+msgid "Zulu"
+msgstr ""

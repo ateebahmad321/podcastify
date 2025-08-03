@@ -1,0 +1,17 @@
+/*
+ * Media Queries
+ */
+
+
+@custom-media --bp-tiny ( max-width: 25em ); /* 400px */
+@custom-media --bp-small ( max-width: 30em ); /* 480px */
+@custom-media --bp-medium ( max-width: 48em ); /* 768px */
+@custom-media --bp-laptop ( max-width: 61325em ); /* 980px --custom added*/
+@custom-media --bp-large ( max-width: 64em ); /* 1024px */
+@custom-media --bp-xlarge ( max-width: 80em ); /* 1280px */
+@custom-media --bp-xxlarge ( max-width: 90em ); /* 1440px */
+
+/* WP Core Breakpoints (used for the admin bar for example) */
+@custom-media --wp-small ( min-width: 600px );
+@custom-media --wp-medium-max (max-width: 782px);
+

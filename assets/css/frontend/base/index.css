@@ -1,0 +1,143 @@
+/* Base */
+
+.wppfy {
+	color: var(--c-dark);
+	font-family: Montserrat, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0); /* stylelint-disable-line */
+}
+
+.wppfy hr {
+	border: 0;
+	display: block;
+	height: 1px;
+	border-top: 1px solid #ccc; /* stylelint-disable-line */
+	margin: 1em 0;
+	padding: 0;
+}
+
+.wppfy ::-ms-clear {
+	display: none;
+}
+
+.wppfy *,
+.wppfy *::before,
+.wppfy *::after {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.wppfy input,
+.wppfy select,
+.wppfy input[type="search"] {
+	-webkit-appearance: none;
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.wppfy audio,
+.wppfy canvas,
+.wppfy iframe,
+.wppfy img,
+.wppfy svg,
+.wppfy video {
+	vertical-align: middle;
+}
+
+.wppfy fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.wppfy textarea {
+	resize: vertical;
+}
+
+.wppfy img {
+	max-width: 100%;
+}
+
+.wppfy a {
+	color: var(--c-dark);
+	cursor: pointer;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.wppfy p a {
+	color: var(--c-dark);
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+.wppfy a:hover {
+	color: var(--c-dark);
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+.wppfy p a:hover {
+	color: var(--c-dark);
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.wppfy input[type="search"]::-webkit-search-decoration,
+.wppfy input[type="search"]::-webkit-search-cancel-button,
+.wppfy input[type="search"]::-webkit-search-results-button,
+.wppfy input[type="search"]::-webkit-search-results-decoration {
+	-webkit-appearance: none;
+}
+
+.wppfy p {
+	font-family: Montserrat, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 500;
+	letter-spacing: -0.3px;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+}
+
+.wppfy h2 {
+	font-family: Montserrat, sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.42;
+}
+
+.wppfy h1[class],
+.wppfy h2[class],
+.wppfy h3[class],
+.wppfy h4[class],
+.wppfy h5[class],
+.wppfy h6[class],
+.wppfy h1:last-child,
+.wppfy h2:last-child,
+.wppfy h3:last-child,
+.wppfy h4:last-child,
+.wppfy h5:last-child,
+.wppfy h6:last-child,
+.wppfy p:last-child,
+.wppfy ul:last-child,
+.wppfy ol:last-child,
+.wppfy dl:last-child,
+.wppfy table:last-child,
+.wppfy blockquote:last-child {
+	margin-bottom: 0;
+}
+
+.wppfy .clearfix::after {
+	clear: both;
+	content: "";
+	display: block;
+}

@@ -1,0 +1,33 @@
+/*
+ * Colors
+ */
+:root {
+	--c-white: #fff;
+	--c-black: #000;
+	--c-dark: #222;
+	--c-gray: #8c97b1;
+	--c-darkblue: #10253c;
+	--c-btn-bg: #e7e7e7;
+	--c-btn-bg-hover: #bababa;
+	--c-list-normal: #f3f3f3;
+	--c-sound-normal: #f3f3f3;
+	--c-sound-text: #222;
+
+	/* admin setting panel colorss*/
+	--c-white-color-txt: #fff;
+	--c-white-color-bg: #fff;
+	--c-white-color-border: #fff;
+	--c-lightblue-bg: #f8f9fd;
+	--c-darkblue-txt: #0b1c2e;
+	--c-darkblue-bg: #0b1c2e;
+	--c-darkblue-2-txt: #10253c;
+	--c-darkblue-2-bg: #10253c;
+	--c-darkblue-2-border: #10253c;
+	--c-darkblue-3-txt: #1e3b5b;
+	--c-darkblue-3-border: #1e3b5b;
+	--c-darkblue-3-bg: #1e3b5b;
+	--c-gray-bg: #b0c0da;
+	--c-gray-txt: #8c97b1;
+	--c-gray-border: #b0c0da;
+ 
+}
